@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp",NHK World-Japan (720p)
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="CNA.sg",CNA (1080p)
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
