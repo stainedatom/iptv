@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD",NHK World-Japan (720p)
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.sg",CNA (1080p)
-https://liveh12.vtvprime.vn/hls/NHKWORLD/03.m3u8
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English (1080p)
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="SkyNews.uk",Sky News (1080p)
@@ -23,7 +23,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
 #EXTINF:-1 tvg-id="DocumentaryPlus.us@International" tvg-logo="https://i.imgur.com/x57klfS.png" group-title="Documentary",Documentary+ International (1080p)
 https://1d153317c8db4250b3789601274e2402.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-887-DOCUMENTARYINTERNATIONAL-DOCUMENTARYPLUS/mt/documentaryplus/887/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Mountain (1080p)
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Mountain (1080p)
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Education;Kids",PBS Kids Pacific (1080p)
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="Kids",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
