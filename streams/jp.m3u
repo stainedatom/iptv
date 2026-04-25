@@ -52,7 +52,7 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-logo="https://cdn.dribbble.com/userupload/38850818/file/original-fd0e97ea85a9b3ce2c1f9595ded584ce.png" group-title="Kids",PBS Kids (HD)
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
 
-#EXTINF:-1 tvg-id="CuriosityNOW.us" tvg-logo="https://cdn.mos.cms.futurecdn.net/b8ChgzXV6ERRndaSMVvcd3.jpg" group-title="Documentary",Curiosity NOW (HD)
+#EXTINF:-1 tvg-id="CuriosityNow.us" tvg-logo="https://mms.businesswire.com/media/20241219636997/en/1184149/5/Curiosity_Wordmark_Color_Pos.jpg" group-title="Documentary",Curiosity Now US (HD)
 https://amg00170-amg00170c1-lg-us-3478.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SmithsonianChannelSelects.us" tvg-logo="https://getlogo.net/wp-content/uploads/2020/10/smithsonian-channel-logo-vector.png" group-title="Documentary",Smithsonian Channel Selects (HD)
