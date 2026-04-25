@@ -23,7 +23,7 @@ https://www.bloomberg.com/media-manifest/streams/originals-global.m3u8
 https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNBC.us" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/CNBC-Logo-1.jpg" group-title="News",CNBC (HD)
-https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+https://helpfullive.info/cnbc/index.m3u8?token=fab038814d7ae17cf775af80c44beefbb4b55c60-b74987c806421da9e08aed8a78f0dced-1777124264-1777113464
 
 #EXTINF:-1 tvg-id="DWNews.de" tvg-logo="https://logowik.com/content/uploads/images/dw-deutsche-welle6047.jpg" group-title="News",DW News (HD)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
